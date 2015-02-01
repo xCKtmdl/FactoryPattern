@@ -1,0 +1,2 @@
+com.aaron.FactoryPattern.base.Shape.GenericShape;com.aaron.FactoryPattern.base.Shape.GenericShape
+com.aaron.FactoryPattern.base.Shape.GenericShape;com.aaron.FactoryPattern.custom.Shape.Circle
